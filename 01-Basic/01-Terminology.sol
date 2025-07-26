@@ -25,3 +25,39 @@
 
 
 
+// Front Running 
+-- Front running is a type of exploit or attack where someone often about sports a pending transaction in the memepool and quickly places their own transaction before it, to profit from the expected market movement. 
+
+
+// Arbitrage 
+-- Arbritrage is a trading strategy where you buy an asset(like bitcoin or stablecoin) in one market at the lower price and simultaneously sell it in another market at the higher price, profiting from the price difference.
+
+
+// Mainnet 
+-- The fully developed and lauched blockchain network where main transactions occur.
+
+
+// Testnet 
+-- A separate blockchain network used by developers to test new features and application without risking the real funds on the mainnet. 
+
+// RPCs 
+-- An RPCs(Remote Procedure Call) allows your local appliction(like a web wallet or DApp) to communicate with a blockchain node/server without you needing to run your own full node.
+
+
+// ECDSA 
+-- ECDSA is a core cryptographic algorithms used in block-chain system like etherum, bitcoin, solana and many more ECDSA stand for Elliptic Curve Digital Signature Algorithms. It's a digital signature algorithms based on ECC(elliptic Curve Cryptograppy) which is used to sign transactions, verify signatures and prover ownership of private key without revealing them. 
+
+
+// ED25519
+--ED25519 is a modern,high-speed and secure public key signature system based on eliptic curve-cryptpgrapy. It's specially implements the Edwards-curve digital signature algorithms(EdDSA) using the twisted Edwards curve known as edwards 25519, which is closely related to the curve 25519.
+
+
+// Program Derived Address(PDA)
+-- In the solana blockchain,a PDA(Program Derived Address) is a special kind of account address-not controlled by private key but instead generated deterministically by a program(smart contract).
+
+// EVM (Ethereum Virtual Machine)
+-- EVM stands for Ethereum Virtual Machine.IT is the runtime environment for smart contracts in Ethereum.
+
+// Throughput
+-- Throughtput refers to how many transactions a blockchain can process per second(TPS).Solana have the most throughput rate like 6000+ TPS.
+
